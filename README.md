@@ -56,7 +56,7 @@ $ git clone https://github.com/Shafiq-Sawand/Zphisher.git
 - Change to cloned directory and run `Zphisher.sh` -
 ```
 $ cd Zphisher
-$ bash Zphisher.sh
+$ bash zphisher.sh
 ```
 
 - On first launch, It'll install the dependencies and that's it. `Zphisher` is installed.
