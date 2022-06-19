@@ -1,9 +1,9 @@
 #!/bin/bash
 
 ##   Zphisher 	: 	Automated Phishing Tool
-##   Author 	: 	TAHMID RAYAT 
+##   Author 	: 	Shafiq Sawand
 ##   Version 	: 	2.2
-##   Github 	: 	https://github.com/htr-tech
+##   Github 	: 	https://github.com/Shafiq-Sawand 
 
 ##   THANKS TO :
 ##   Aditya Shakya - https://github.com/adi1090x
@@ -17,7 +17,7 @@
 ##   Mustakim Ahmed - https://www.facebook.com/Learn.Termux.009
 
 
-## If you Copy Then Give the credits :)
+## Credit Goes to DARK HUNTER :)
 
 
 
@@ -163,7 +163,7 @@ banner() {
 		${ORANGE}      | |                                
 		${ORANGE}      |_|                ${RED}Version : 2.2
 
-		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by htr-tech (tahmid.rayat)${WHITE}
+		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by Dark Hunter (Shafiq-Sawand)${WHITE}
 	EOF
 }
 
