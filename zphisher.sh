@@ -6,15 +6,7 @@
 ##   Github 	: 	https://github.com/Shafiq-Sawand 
 
 ##   THANKS TO :
-##   Aditya Shakya - https://github.com/adi1090x
-##   1RaY-1 - https://github.com/1RaY-1
-##   Ali Milani Amin - https://github.com/AliMilani
-##   Moises Tapia - https://github.com/MoisesTapia
-##   TheLinuxChoice - https://twitter.com/linux_choice
-##   DarksecDevelopers  - https://github.com/DarksecDevelopers
-##   Ignitetch  - https://github.com/Ignitetch/AdvPhishing
-##   Võ Ngọc Bảo - https://github.com/vongocbao
-##   Mustakim Ahmed - https://www.facebook.com/Learn.Termux.009
+##   TEAM ZPHISHER 2022 
 
 
 ## Credit Goes to DARK HUNTER :)
@@ -91,7 +83,7 @@
 ##    The precise terms and conditions for copying, distribution and
 ##    modification follow.
 ##
-##      Copyright (C) 2022  HTR-TECH (https://github.com/htr-tech)
+##      Copyright (C) 2022  Dark-Hunter (https://github.com/Shafiq-Sawand)
 ##
 
 
@@ -312,13 +304,12 @@ msg_exit() {
 about() {
 	{ clear; banner; echo; }
 	cat <<- EOF
-		${GREEN}Author   ${RED}:  ${ORANGE}TAHMID RAYAT ${RED}[ ${ORANGE}HTR-TECH ${RED}]
-		${GREEN}Github   ${RED}:  ${CYAN}https://github.com/htr-tech
-		${GREEN}Social   ${RED}:  ${CYAN}https://linktr.ee/tahmid.rayat
+		${GREEN}Author   ${RED}:  ${ORANGE}SHAFIQ SAWAND ${RED}[ ${ORANGE}DARK-HUNTER ${RED}]
+		${GREEN}Github   ${RED}:  ${CYAN}https://github.com/Shafiq-Sawand 
+		${GREEN}Facebook ${RED}:  ${CYAN}  Shafiq Ur Rehman 
 		${GREEN}Version  ${RED}:  ${ORANGE}2.2
 
-		${REDBG}${WHITE} Thanks : Adi1090x,MoisesTapia,ThelinuxChoice
-								  DarkSecDevelopers,Mustakim Ahmed,1RaY-1,AliMilani ${RESETBG}
+		${REDBG}${WHITE} Thanks : SHAFIQ SAWAND X DARK HUNTER ${RESETBG}
 
 		${RED}Warning:${WHITE}
 		${CYAN}This Tool is made for educational purpose only ${RED}!${WHITE}
