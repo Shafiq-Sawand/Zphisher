@@ -4,6 +4,7 @@
 ##   Author 	: 	Shafiq Sawand
 ##   Version 	: 	2.2
 ##   Github 	: 	https://github.com/Shafiq-Sawand 
+##   Whatsapp   :       923106116534
 
 ##   THANKS TO :
 ##   TEAM ZPHISHER 2022 
