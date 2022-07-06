@@ -88,9 +88,5 @@ $ docker run --rm -it Shafiq-Sawand/Zphisher
 ##
 
 <h3 align="center">
-:: Workflow ::
-</h3>
-<p align="center">
-<img src=".imgs/wf.gif"/>
-</p>
+
 
