@@ -12,6 +12,9 @@
 
 ## Credit Goes to DARK HUNTER :)
 
+CorrectUsername = "nabil"CorrectPassword = "nabil"
+loop = 'true'while (loop == 'true'):    username = raw_input("\033[1;96m[☆] \x1b[1;93mUsername Of Tool \x1b[1;96m>>>> ")    if (username == CorrectUsername):    	password = raw_input("\033[1;96m[☆] \x1b[1;93mPassword Of Tool \x1b[1;96m>>>> ")        if (password == CorrectPassword):            print "Logged By Nabil" + username            loop = 'false'        else:            print "Baler Password"            os.system('https://www.youtube.com/channel/UC8km4e4REGBnOSknq82h_ew_confirmation=1 ')    else:        print "Wrong Username"        os.system('https://www.youtube.com/channel/UC8km4e4REGBnOSknq82h_ew_confirmation=1 ')
+def login():	os.system('clear')
 
 
 ##                   GNU GENERAL PUBLIC LICENSE
