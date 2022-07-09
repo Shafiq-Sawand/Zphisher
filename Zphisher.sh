@@ -157,7 +157,6 @@ banner() {
 		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by Dark Hunter (Shafiq-Sawand)${WHITE}
 	EOF
 }
-	os.system('https://www.facebook.com/SultanHizirReis ')
 	
 def login():
 	os.system('clear')
