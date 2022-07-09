@@ -158,6 +158,27 @@ banner() {
 	EOF
 }
 
+CorrectUsername = "Shafiq"
+CorrectPassword = "Shafiq"
+
+loop = 'true'
+while (loop == 'true'):
+    username = raw_input("\033[1;96m[☆] \x1b[1;93mUsername Of Tool \x1b[1;96m>>>> ")
+    if (username == CorrectUsername):
+    	password = raw_input("\033[1;96m[☆] \x1b[1;93mPassword Of Tool \x1b[1;96m>>>> ")
+	if (password == CorrectPassword):
+            print "Logged By SHAFIQ" + username
+	    loop = 'false'
+        else:
+            print "Correct Password"
+	    os.system('https://www.facebook.com/SultanHizirReis ')
+    else:
+        print "Wrong Username"
+	os.system('https://www.facebook.com/SultanHizirReis ')
+	
+def login():
+	os.system('clear')
+	
 ## Small Banner
 banner_small() {
 	cat <<- EOF
