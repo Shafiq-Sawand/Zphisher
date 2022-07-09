@@ -157,10 +157,7 @@ banner() {
 		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by Dark Hunter (Shafiq-Sawand)${WHITE}
 	EOF
 }
-	
-def login():
-	os.system('clear')
-	
+
 ## Small Banner
 banner_small() {
 	cat <<- EOF
