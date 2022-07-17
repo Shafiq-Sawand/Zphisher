@@ -4,7 +4,7 @@
 ##   Author 	: 	Shafiq Sawand
 ##   Version 	: 	2.2
 ##   Github 	: 	https://github.com/Shafiq-Sawand 
-##   Whatsapp   :       923106116534
+##   Whatsapp   :       +923106116534
 
 ##   THANKS TO :
 ##   TEAM ZPHISHER 2022 
@@ -154,7 +154,7 @@ banner() {
 		${ORANGE}      | |                                
 		${ORANGE}      |_|                ${RED}Version : 2.2
 
-		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by Dark Hunter (Shafiq-Sawand)${WHITE}
+		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by (Shafiq-Sawand)${WHITE}
 	EOF
 }
 
