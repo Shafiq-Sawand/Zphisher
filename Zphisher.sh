@@ -2,12 +2,9 @@
 
 ##   Zphisher 	: 	Automated Phishing Tool
 ##   Author 	: 	Shafiq Sawand
-##   Version 	: 	2.2
+##   Version 	: 	2.4
 ##   Github 	: 	https://github.com/Shafiq-Sawand 
 ##   Whatsapp   :       +923106116534
-
-##   THANKS TO :
-##   TEAM ZPHISHER 2022 
 
 
 ## Credit Goes to DARK HUNTER :)
@@ -152,7 +149,7 @@ banner() {
 		${ORANGE} / /__| |_) | | | | \__ \ | | |  __/ |   
 		${ORANGE}/_____| .__/|_| |_|_|___/_| |_|\___|_|   
 		${ORANGE}      | |                                
-		${ORANGE}      |_|                ${RED}Version : 2.2
+		${ORANGE}      |_|                ${RED}Version : 2.4
 
 		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by (Shafiq-Sawand)${WHITE}
 	EOF
@@ -164,7 +161,7 @@ banner_small() {
 		${BLUE}
 		${BLUE}  ░▀▀█░█▀█░█░█░▀█▀░█▀▀░█░█░█▀▀░█▀▄
 		${BLUE}  ░▄▀░░█▀▀░█▀█░░█░░▀▀█░█▀█░█▀▀░█▀▄
-		${BLUE}  ░▀▀▀░▀░░░▀░▀░▀▀▀░▀▀▀░▀░▀░▀▀▀░▀░▀${WHITE} 2.2
+		${BLUE}  ░▀▀▀░▀░░░▀░▀░▀▀▀░▀▀▀░▀░▀░▀▀▀░▀░▀${WHITE} 2.4
 	EOF
 }
 
@@ -308,7 +305,7 @@ about() {
 		${GREEN}Facebook ${RED}:  ${CYAN}  Shafiq Ur Rehman 
 		${GREEN}Version  ${RED}:  ${ORANGE}2.2
 
-		${REDBG}${WHITE} Thanks : SHAFIQ SAWAND X DARK HUNTER ${RESETBG}
+		${REDBG}${WHITE} Thanks : SHAFIQ KHAN SAWAND ${RESETBG}
 
 		${RED}Warning:${WHITE}
 		${CYAN}This Tool is made for educational purpose only ${RED}!${WHITE}
